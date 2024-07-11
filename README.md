@@ -38,7 +38,7 @@ e. Node initialization
 ```bash
 gaianet init
 ```
-<details><summary> The output should look like below: </summary>
+The output should look like below:
 
 ```bash
 [+] Downloading Llama-2-7b-chat-hf-Q5_K_M.gguf ...
