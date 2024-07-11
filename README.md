@@ -14,7 +14,7 @@ a. Update & Upgrade Package
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
 ```
-b. Download TMUX
+b. Download TMUX Package
 
 ```bash
 sudo apt-get install tmux
