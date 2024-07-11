@@ -61,6 +61,7 @@ gaianet init
 
     * Recovery is done successfully
 ```
+
 f. Start Node
 ```bash
 gaianet start
